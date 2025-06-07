@@ -68,7 +68,7 @@ Student_Performance_Prediction_System/
 │
 ├── data/                       # Sample datasets
 ├── models/                     # Trained models (if any)
-├── Student_Performance_Prediction.ipynb  # Main notebook
+├── file.ipynb  # Main notebook
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project documentation
 ```
