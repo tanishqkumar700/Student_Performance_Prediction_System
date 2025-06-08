@@ -20,17 +20,18 @@ Below are screenshots showcasing the interface and prediction results:
 
 ![image1](Images/img1.png)
 
-### Prediction - Likely to Fail
+### Prediction - Likely to Pass
 
 ![image2](Images/img2.png)
 
 ### Alternate Input State
 
-![image4](Images/img3.png)
+![image3](Images/img3.png)
+![image4](Images/img4.png)
 
-### Prediction - Likely to Pass
+### Prediction - Likely to Fail
 
-![image3](Images/img4.png)
+![image5](Images/img5.png)
 
 ## Getting Started
 
